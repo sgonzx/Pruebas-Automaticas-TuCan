@@ -1,0 +1,18 @@
+pip install selenium
+pip install pytest
+import pytest
+
+python test_cP001PRegistrodeUsuario.py
+python test_cP001NRegistrodeUsuario.py
+python test_cP002PLogin.py
+python test_cP002NLogin.py
+python test_cP004PSquack.py
+python test_cP004NSquack.py
+python test_cP006PEditProfile.py
+python test_cP006NEditProfile.py
+python test_cP007PSettingsUsuario.py
+python test_cP007NSettingsUsuario.py
+python test_cP009PComentarRetweek.py
+python test_cP009NComentarRetweek.py
+python test_cP0010PComentarunaPublicacion.py
+python test_cP0010NComentarunaPublicacion.py
