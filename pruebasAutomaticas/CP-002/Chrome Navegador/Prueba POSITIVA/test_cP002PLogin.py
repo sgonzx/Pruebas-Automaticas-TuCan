@@ -45,5 +45,5 @@ class TestCP002PLogin():
     except:
         print("SE HA DETECTADO UN ERROR EN EL CP002P, SE RECOMIENDA REVISION.")
 
-ejecucion = TestCP002PLogin()
-ejecucion.ejectuarCP002PChrome()
+ejecucionCP002PLogin = TestCP002PLogin()
+ejecucionCP002PLogin.ejectuarCP002PChrome()
