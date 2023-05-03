@@ -47,4 +47,4 @@ class TestCP002NLogin():
         print("SE HA DETECTADO UN ERROR EN EL CP002N, SE RECOMIENDA REVISION.")
 
 ejecucionPruebaCP002N = TestCP002NLogin()
-ejecucionPruebaCP002N.ejectuarCP002NLogin()
+ejecucionPruebaCP002N.ejectuarCP002NChrome()
