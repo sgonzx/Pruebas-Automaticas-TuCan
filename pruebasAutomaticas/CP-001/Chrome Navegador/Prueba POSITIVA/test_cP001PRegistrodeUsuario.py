@@ -52,5 +52,4 @@ class TestCP001PRegistrodeUsuario():
     except:
       print("SE HA DETECTADO UN ERROR EN EL CP001P, SE RECOMIENDA REVISION.")
       
-ejecucion = TestCP001PRegistrodeUsuario()
-ejecucion.ejectuarCP001PChrome()
+TestCP001PRegistrodeUsuario.ejectuarCP001PChrome()
